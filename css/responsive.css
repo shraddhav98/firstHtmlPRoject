@@ -1,0 +1,213 @@
+
+
+@media screen and (min-width: 280px) and (max-width: 690px) {
+  .sec1 {
+    width: 100%;
+   
+  }
+
+  .sec1 .container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .sec2{
+    margin: 10px;
+    
+  }
+
+  .btn1 {
+    padding: 10px 5px;
+    border-radius: 10px;
+    font-size: 12px;
+  }
+
+  .btn2 {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 12px;
+  }
+
+  .heading1 {
+    font-size: 28px;
+  }
+  .para1 {
+    font-size: 18px;
+  }
+  
+  .none{
+    display: none;
+  }
+
+  .cards{
+    width:100%;
+ 
+  
+}
+.card{
+    width:90%;
+    animation: none;
+  }
+.sec6_cards{
+    flex-direction: column;
+    align-items: center;
+}
+.sec6_card{
+  width: 100%;
+}
+
+footer{
+    padding: 10px;
+}
+footer .container{
+    flex-direction: column;
+    align-items: center;
+}
+.col{
+    width: 100%;
+    margin: 10px;
+}
+
+.container .icons{
+    font-size: 12px;
+   transform: none;
+}
+.icons i{
+    padding: 10px;
+    margin: 8px;
+    
+}
+
+
+.sec4 .img {
+  
+    padding: 0px 10px;
+    width: 80%;
+   
+}
+.content-sec4 button {
+  
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px auto;
+}
+.content-sec4{
+    margin-top: 0px;
+    padding:20px;
+   
+ }
+.img_none{
+    display: none;
+}
+.sec5_img {
+    width: 33%;
+}
+
+
+.sec3-heading {
+    padding: 10px;
+    margin: 10px;
+}
+.content-sec5 h1 {
+    font-size: 28px;
+  
+}
+.content-sec5 h4 {
+    font-size: 18px;
+}
+
+.content-sec6 h1 {
+  font-size: 28px;
+
+}
+.content-sec6 h4 {
+  font-size: 18px;
+}
+.content-sec2 h1 {
+  font-size: 28px;
+
+}
+.content-sec2 h4 {
+  font-size: 18px;
+}
+.sec6{
+    padding: 10px;
+    margin: 0px 30px;
+}
+.content-sec6 {
+    padding: 10px;
+}
+.contact input{
+    padding: 10px;
+    width: 100%;
+   
+}
+.contact textarea{
+    padding: 10px;
+    width: 100%;
+   
+}
+
+.about_container {
+  padding: 0px 20px;
+  text-align: start;
+}
+
+.about_cards {
+
+  padding: 10px;
+}
+
+.about_card{
+  width: 100%;;
+  padding: 0px;
+}
+
+.about_card2{
+  width: 100%;;
+  
+}
+.card_team{
+  width: 100%;
+  margin: 10px 20px;
+  padding: 10px;
+}
+.blog_card{
+  width: 100%;
+}
+.contactn{
+  width: 100%;
+}
+.address{
+  width: 100%;
+}
+.contactUS {
+  
+  margin: 10px;
+}
+}
+
+
+@media (min-width:586px)  {
+  .navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #07077a;
+    color: white;
+    height: 50px;
+}
+}
+@media (max-width:586px)  {
+  .navbar{
+    
+    
+    background-color: #07077a;
+    color: white;
+    height: 50px;
+}
+
+.content{
+  display: none;
+}
+}
